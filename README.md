@@ -86,7 +86,6 @@ Connect on [LinkedIn](https://www.linkedin.com/in/nikhil-sukthe)
 
 MIT License — feel free to use, adapt, and contribute.
 
-```
 
 
 

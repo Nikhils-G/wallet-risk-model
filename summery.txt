@@ -1,0 +1,319 @@
+TOP - 5 WALLET SCORE --->
+
+
+Reading C:/Users/Nikhil Sukthe/Downloads/compoundV2_transactions_ethereum_chunk_0.json...
+Reading C:/Users/Nikhil Sukthe/Downloads/compoundV2_transactions_ethereum_chunk_1.json...
+Reading C:/Users/Nikhil Sukthe/Downloads/compoundV2_transactions_ethereum_chunk_2.json...
+
+🔍 Wallet: 0x002f9caf40a444f20813da783d152bdfaf42852f - 16 transactions found
+{
+  "account": {
+    "id": "0x002f9caf40a444f20813da783d152bdfaf42852f"
+  },
+  "amount": "7000000000000000000000",
+  "amountUSD": "6987.035940943015741",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0x922f96594c01274a80e0d36db7d6f7b8e44515b7ef0f098a5c1decffbadd696b",
+  "id": "0x922f96594c01274a80e0d36db7d6f7b8e44515b7ef0f098a5c1decffbadd696b-10",
+  "timestamp": "1558906168"
+}
+{
+  "account": {
+    "id": "0x002f9caf40a444f20813da783d152bdfaf42852f"
+  },
+  "amount": "660848000000000000000",
+  "amountUSD": "11786.410922469524372113744",
+  "asset": {
+    "id": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
+    "symbol": "REP"
+  },
+  "hash": "0x85cee35620d9d925404facefab27e18d725c42e3d1775ac7862fe669dfab231d",
+  "id": "0x85cee35620d9d925404facefab27e18d725c42e3d1775ac7862fe669dfab231d-75",
+  "timestamp": "1559647188"
+}
+
+🔍 Wallet: 0x85412643b12cf847f3e11f24610e6127c17ef7ec - 9 transactions found
+{
+  "account": {
+    "id": "0x85412643b12cf847f3e11f24610e6127c17ef7ec"
+  },
+  "amount": "25991578187952150574",
+  "amountUSD": "25.77826922889360011233262737228738",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0x88e38e36f7ef37fa736259bc76bb7794ab9831c81814fc560e64195fe3d142c0",
+  "id": "0x88e38e36f7ef37fa736259bc76bb7794ab9831c81814fc560e64195fe3d142c0-89",
+  "timestamp": "1560396947"
+}
+{
+  "account": {
+    "id": "0x85412643b12cf847f3e11f24610e6127c17ef7ec"
+  },
+  "amount": "8780530000",
+  "amountUSD": "8780.53",
+  "asset": {
+    "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "symbol": "USDC"
+  },
+  "hash": "0x12e3fcfeff331894f9ca093a9e24ebe2b95f7ebe97a24854a12461d4986f1179",
+  "id": "0x12e3fcfeff331894f9ca093a9e24ebe2b95f7ebe97a24854a12461d4986f1179-36",
+  "timestamp": "1560485663"
+}
+
+🔍 Wallet: 0x8552698764b16b26189e8ef0cc095d02691d4837 - 6 transactions found
+{
+  "account": {
+    "id": "0x8552698764b16b26189e8ef0cc095d02691d4837"
+  },
+  "amount": "100000000000000000",
+  "amountUSD": "29.2731395742483822012",
+  "asset": {
+    "id": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "ETH"
+  },
+  "hash": "0x980f4981cb6140340da27bd76e4660541ad69dc221aafb1346706486afe50e7b",
+  "id": "0x980f4981cb6140340da27bd76e4660541ad69dc221aafb1346706486afe50e7b-68",
+  "timestamp": "1562390248"
+}
+{
+  "account": {
+    "id": "0x8552698764b16b26189e8ef0cc095d02691d4837"
+  },
+  "amount": "100000000000000000",
+  "amountUSD": "29.2731395742483822012",
+  "asset": {
+    "id": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "ETH"
+  },
+  "hash": "0x07751e757a8f851300049b4c9abf413e4a8a081c9cc356e72a25bd193e4e550f",
+  "id": "0x07751e757a8f851300049b4c9abf413e4a8a081c9cc356e72a25bd193e4e550f-887",
+  "timestamp": "1562391980"
+}
+
+🔍 Wallet: 0x85697c00fb7bfdd5b31826f4e807459fb9941b19 - 15 transactions found
+{
+  "account": {
+    "id": "0x85697c00fb7bfdd5b31826f4e807459fb9941b19"
+  },
+  "amount": "13206013822134157500000",
+  "amountUSD": "13324.73555385957418553773430751114",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0x6f5c515fedd3b0f457ec487e1b84e5c5e6f626b4f821b1bcda3f720ab218b153",
+  "id": "0x6f5c515fedd3b0f457ec487e1b84e5c5e6f626b4f821b1bcda3f720ab218b153-59",
+  "timestamp": "1559131011"
+}
+{
+  "account": {
+    "id": "0x85697c00fb7bfdd5b31826f4e807459fb9941b19"
+  },
+  "amount": "12284948123112804251658",
+  "amountUSD": "12211.34193926649561642996618813833",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0x14212885b5a7d42338c6ab35f2cdd45e405c177501cefad434b9a94272502762",
+  "id": "0x14212885b5a7d42338c6ab35f2cdd45e405c177501cefad434b9a94272502762-73",
+  "timestamp": "1559794610"
+}
+
+🔍 Wallet: 0x856b762d46274ef1d696103e5fb2af2afee91ecb - 35 transactions found
+{
+  "account": {
+    "id": "0x856b762d46274ef1d696103e5fb2af2afee91ecb"
+  },
+  "amount": "700000000000000000",
+  "amountUSD": "200.3724082878466897046",
+  "asset": {
+    "id": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "ETH"
+  },
+  "hash": "0x296d5131b37aa1daf73df7ab7bb8c0cc6d606f9b76b1728d39fc80bfa11baa53",
+  "id": "0x296d5131b37aa1daf73df7ab7bb8c0cc6d606f9b76b1728d39fc80bfa11baa53-31",
+  "timestamp": "1562302840"
+}
+{
+  "account": {
+    "id": "0x856b762d46274ef1d696103e5fb2af2afee91ecb"
+  },
+  "amount": "3012736744606702032",
+  "amountUSD": "876.5799938250777956294008032635522",
+  "asset": {
+    "id": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "symbol": "ETH"
+  },
+  "hash": "0x96f0862db7740420a6a8e3712a584983c21a612ba4fc12047060f2178d1a4710",
+  "id": "0x96f0862db7740420a6a8e3712a584983c21a612ba4fc12047060f2178d1a4710-78",
+  "timestamp": "1562349874"
+}
+Selection deleted
+
+
+
+
+
+BOTTOM - 5 FROM WALLET SCORE --> 
+
+
+eading C:/Users/Nikhil Sukthe/Downloads/compoundV2_transactions_ethereum_chunk_0.json...
+Reading C:/Users/Nikhil Sukthe/Downloads/compoundV2_transactions_ethereum_chunk_1.json...
+Reading C:/Users/Nikhil Sukthe/Downloads/compoundV2_transactions_ethereum_chunk_2.json...
+
+🔍 Wallet: 0x35d3da57064d2f5ec5f0824caaa839a43026bd41 - 18 transactions found
+{
+  "account": {
+    "id": "0x35d3da57064d2f5ec5f0824caaa839a43026bd41"
+  },
+  "amount": "20000000000000000000000",
+  "amountUSD": "19983.02125106061062",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0xd0c32ff905d0e31384f470b0c1868ca4d879d4513914d0e3fccb9b3b555ae49b",
+  "id": "0xd0c32ff905d0e31384f470b0c1868ca4d879d4513914d0e3fccb9b3b555ae49b-102",
+  "timestamp": "1562504047"
+}
+{
+  "account": {
+    "id": "0x35d3da57064d2f5ec5f0824caaa839a43026bd41"
+  },
+  "amount": "25000000000000000000000",
+  "amountUSD": "25106.53016719925305",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0x98202933e6d3873ff17d007318439a65bc59cdb2ce8340884fdabb39c67db146",
+  "id": "0x98202933e6d3873ff17d007318439a65bc59cdb2ce8340884fdabb39c67db146-133",
+  "timestamp": "1563106951"
+}
+
+🔍 Wallet: 0x35e283f461a9ca2e3a5765e72815c8d1dcb66ad6 - 11 transactions found
+{
+  "account": {
+    "id": "0x35e283f461a9ca2e3a5765e72815c8d1dcb66ad6"
+  },
+  "amount": "140332669690247287923",
+  "amountUSD": "140.326066742865806046164382023878",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0x8a7c58e04c51202db9fca96a09f34e9fa76f01884676a60ec0eb640ccf88f2fa",
+  "id": "0x8a7c58e04c51202db9fca96a09f34e9fa76f01884676a60ec0eb640ccf88f2fa-91",
+  "timestamp": "1558656051"
+}
+{
+  "account": {
+    "id": "0x35e283f461a9ca2e3a5765e72815c8d1dcb66ad6"
+  },
+  "amount": "72350607223318387485",
+  "amountUSD": "72.11385454081162620334498100769193",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0xa510568bb91464fd5b85fabb2436b05b75c4416e03769f08262b27ebf05123dc",
+  "id": "0xa510568bb91464fd5b85fabb2436b05b75c4416e03769f08262b27ebf05123dc-82",
+  "timestamp": "1558901676"
+}
+
+🔍 Wallet: 0x351fabac75529688169b7e763954317db7c9f5ba - 14 transactions found
+{
+  "account": {
+    "id": "0x351fabac75529688169b7e763954317db7c9f5ba"
+  },
+  "amount": "3800000000000000000000",
+  "amountUSD": "3812.382733019710235",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0x78cd29078dc77a7517977bfc84a74e98ea6c88c16971d45e79d702c757b866dc",
+  "id": "0x78cd29078dc77a7517977bfc84a74e98ea6c88c16971d45e79d702c757b866dc-114",
+  "timestamp": "1564437315"
+}
+{
+  "account": {
+    "id": "0x351fabac75529688169b7e763954317db7c9f5ba"
+  },
+  "amount": "9376557432402405491269",
+  "amountUSD": "9253.529224789326565115571390546915",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0xc6913a62380de12dd7d9bf895bcc0f16c4977697f75ad4aae48ffe52a9a40fb4",
+  "id": "0xc6913a62380de12dd7d9bf895bcc0f16c4977697f75ad4aae48ffe52a9a40fb4-109",
+  "timestamp": "1564227086"
+}
+
+🔍 Wallet: 0x3538231cf9b57a35d5bf3c0d3b9ea54ff5863465 - 10 transactions found
+{
+  "account": {
+    "id": "0x3538231cf9b57a35d5bf3c0d3b9ea54ff5863465"
+  },
+  "amount": "21898035958011517621",
+  "amountUSD": "21.93181270661213332906848864810151",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0xc47cf160e1fe1d29a6e65a79094e272b04f47445a675ad09d5dda040857f989f",
+  "id": "0xc47cf160e1fe1d29a6e65a79094e272b04f47445a675ad09d5dda040857f989f-87",
+  "timestamp": "1561560390"
+}
+{
+  "account": {
+    "id": "0x3538231cf9b57a35d5bf3c0d3b9ea54ff5863465"
+  },
+  "amount": "100000000",
+  "amountUSD": "100",
+  "asset": {
+    "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "symbol": "USDC"
+  },
+  "hash": "0x4537ded9c7c7063a3013522fd2925dd1d240b9f478f385d3c8b2f11b4259f22a",
+  "id": "0x4537ded9c7c7063a3013522fd2925dd1d240b9f478f385d3c8b2f11b4259f22a-33",
+  "timestamp": "1561562028"
+}
+
+🔍 Wallet: 0x35440df5c2fab7f5dd7c101fdf94a039a00c6ab7 - 10 transactions found
+{
+  "account": {
+    "id": "0x35440df5c2fab7f5dd7c101fdf94a039a00c6ab7"
+  },
+  "amount": "1000000000000000000000",
+  "amountUSD": "997.932943771917336",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0xc850d477855f751be0d2d855e49aa4bce4063ba2b4e67872018fd990512e0007",
+  "id": "0xc850d477855f751be0d2d855e49aa4bce4063ba2b4e67872018fd990512e0007-11",
+  "timestamp": "1559141372"
+}
+{
+  "account": {
+    "id": "0x35440df5c2fab7f5dd7c101fdf94a039a00c6ab7"
+  },
+  "amount": "5000000000000000000000",
+  "amountUSD": "5022.04990080726409",
+  "asset": {
+    "id": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "symbol": "DAI"
+  },
+  "hash": "0xb39e85606ca47a8d7b23ec5a4c7b6fea571d84c58af6ef66774f037bf7776eb9",
+  "id": "0xb39e85606ca47a8d7b23ec5a4c7b6fea571d84c58af6ef66774f037bf7776eb9-55",
+  "timestamp": "1559314347"
+}
+

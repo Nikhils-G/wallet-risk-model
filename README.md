@@ -12,7 +12,7 @@ A machine learning-based scoring system designed to assess the **risk level of E
 |---------------------------|-----------------------------------------------------------------------------|
 | `wallet_risk_model.ipynb` | Jupyter notebook for data preprocessing, feature engineering, and training |
 | `wallet_risk_model.py`    | Python script version of the modeling pipeline                             |
-| `model.pkl`               | Trained ML model (e.g., XGBoost)                                           |
+| `model.pkl`               | Trained ML model (XGBoost)                                                 |
 | `wallet_score.csv`        | Final output with wallet addresses and their predicted risk scores         |
 | `shap_summary.png`        | SHAP explainability visualization                                          |
 | `Wallet Activity Analysis.pdf` | PDF detailing data exploration & wallet activity patterns             |
@@ -78,7 +78,7 @@ python wallet_risk_model.py
 
 **Nikhil Sukthe**
 B.Tech in CSE (AI & DS) | Data Science & ML Enthusiast
-Connect on [LinkedIn](https://www.linkedin.com/in/nikhil-sukthe)
+Connect on [LinkedIn](http://www.linkedin.com/in/nikhilsukthe)
 
 ---
 
